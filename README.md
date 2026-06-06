@@ -1,1 +1,3 @@
 # VarInsight
+
+With the increasing availability of genomic sequencing data, accurately identifying whether a genetic variant is pathogenic or benign has become a major challenge in bioinformatics and clinical genomics. This project focuses on building a ensemble machine learning algorithm based classification model trained on the random ClinVar variant dataset to predict the clinical significance of genetic mutations. The proposed system provides a generalizable computational approach for automated variant classification. This model classifies variant data into pathogenic and benign with a justified confidence score.
